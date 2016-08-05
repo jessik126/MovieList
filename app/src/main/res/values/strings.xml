@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista Filmes</string>
+    <string name="edit_message">Procure um filme</string>
+    <string name="button_send">Procurar</string>
+</resources>
