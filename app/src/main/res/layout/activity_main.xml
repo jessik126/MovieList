@@ -9,13 +9,15 @@
 
     >
 
-    <EditText android:id="@+id/edit_message"
+    <EditText
+        android:id="@+id/edMovie"
         android:layout_weight="1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:hint="@string/edit_message"
         android:layout_gravity="center_vertical" />
     <Button
+        android:id="@+id/btnProcurar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_send"

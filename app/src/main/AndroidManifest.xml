@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".DisplayMessageActivity" />
+        <activity android:name=".DisplayMovie" />
 
         <activity android:name=".TelaLogin"/>
 
